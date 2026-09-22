@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1730"/>
+      <stop offset="0.55" stop-color="#4a1147"/>
+      <stop offset="1" stop-color="#921a44"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.7">
+      <stop offset="0" stop-color="#f2c14e" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#f2c14e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky2)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <g opacity="0.18">
+    <circle cx="600" cy="380" r="300" fill="none" stroke="#f2c14e" stroke-width="2"/>
+    <circle cx="600" cy="380" r="210" fill="none" stroke="#f2c14e" stroke-width="2"/>
+    <circle cx="600" cy="380" r="120" fill="none" stroke="#f2c14e" stroke-width="2"/>
+  </g>
+  <g stroke="#f8f4ee" stroke-width="3" opacity="0.9">
+    <path d="M300 700 l0 90" /><path d="M900 700 l0 90"/>
+    <path d="M340 700 h520 l-20 -20 h-480 z" fill="#1b2a52" fill-opacity="0.85"/>
+    <path d="M300 778 q300 34 600 0" fill="none" stroke-opacity="0.5"/>
+  </g>
+  <g stroke="#f2c14e" stroke-width="6" stroke-linecap="round">
+    <path d="M300 700 l-70 -34" fill="none"/>
+    <path d="M900 700 l70 -34" fill="none"/>
+  </g>
+  <g>
+    <rect x="470" y="330" width="260" height="340" rx="14" fill="#fdf3dd"/>
+    <rect x="492" y="352" width="216" height="296" rx="10" fill="none" stroke="#921a44" stroke-width="4"/>
+    <path d="M475 342 q125 -55 250 0" fill="none" stroke="#1b2a52" stroke-width="12" stroke-linecap="round"/>
+    <text x="600" y="560" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="46" fill="#921a44">KARTHIKEYA</text>
+    <text x="600" y="600" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="24" letter-spacing="12" fill="#1b2a52">INFRA · CES</text>
+    <circle cx="600" cy="480" r="34" fill="#d99b28" stroke="#4a1147" stroke-width="3"/>
+    <path d="M600 496 l0 -22 M600 466 l-9 16 h18 z" fill="#4a1147"/>
+  </g>
+  <g fill="#2f7d4f">
+    <circle cx="330" cy="640" r="26"/><circle cx="870" cy="640" r="26"/>
+    <circle cx="250" cy="560" r="18"/><circle cx="950" cy="560" r="18"/>
+    <path d="M320 640 l-8 -30 q14 -26 30 -6 z" fill="#2f7d4f"/>
+    <path d="M860 640 l-8 -30 q14 -26 30 -6 z" fill="#2f7d4f"/>
+  </g>
+  <g stroke="#fdf3dd" stroke-width="3" fill="#d99b28">
+    <rect x="352" y="712" width="8" height="56" rx="2"/>
+    <rect x="840" y="712" width="8" height="56" rx="2"/>
+    <circle cx="356" cy="706" r="8" fill="#f2c14e" stroke="none"/>
+    <circle cx="844" cy="706" r="8" fill="#f2c14e" stroke="none"/>
+  </g>
+  <g fill="#f2c14e" stroke="#4a1147" stroke-width="2">
+    <circle cx="330" cy="600" r="6"/><circle cx="870" cy="600" r="6"/>
+  </g>
+  <text x="600" y="96" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="30" letter-spacing="10" fill="#f2c14e">THE GATED VENTURE · GUNTUR</text>
+</svg>

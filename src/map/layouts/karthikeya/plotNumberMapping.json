@@ -1,0 +1,1955 @@
+[
+ {
+  "id": "karthikeya-plot-010",
+  "plotNumber": "10",
+  "polygon": [
+   {
+    "x": 0.0,
+    "y": 0.0
+   },
+   {
+    "x": 30.0,
+    "y": 0.0
+   },
+   {
+    "x": 30.0,
+    "y": 50.1
+   },
+   {
+    "x": 0.0,
+    "y": 50.1
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 15.0,
+   "y": 25.05
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-011",
+  "plotNumber": "11",
+  "polygon": [
+   {
+    "x": 30.0,
+    "y": 0.0
+   },
+   {
+    "x": 60.0,
+    "y": 0.0
+   },
+   {
+    "x": 60.0,
+    "y": 50.1
+   },
+   {
+    "x": 30.0,
+    "y": 50.1
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 45.0,
+   "y": 25.05
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-012",
+  "plotNumber": "12",
+  "polygon": [
+   {
+    "x": 60.0,
+    "y": 0.0
+   },
+   {
+    "x": 90.0,
+    "y": 0.0
+   },
+   {
+    "x": 90.0,
+    "y": 50.1
+   },
+   {
+    "x": 60.0,
+    "y": 50.1
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 75.0,
+   "y": 25.05
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-013",
+  "plotNumber": "13",
+  "polygon": [
+   {
+    "x": 90.0,
+    "y": 0.0
+   },
+   {
+    "x": 120.0,
+    "y": 0.0
+   },
+   {
+    "x": 120.0,
+    "y": 50.1
+   },
+   {
+    "x": 90.0,
+    "y": 50.1
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 105.0,
+   "y": 25.05
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-014",
+  "plotNumber": "14",
+  "polygon": [
+   {
+    "x": 120.0,
+    "y": 0.0
+   },
+   {
+    "x": 150.25,
+    "y": 0.0
+   },
+   {
+    "x": 150.25,
+    "y": 49.69
+   },
+   {
+    "x": 120.0,
+    "y": 49.69
+   }
+  ],
+  "area": 1503.12,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 135.12,
+   "y": 24.85
+  },
+  "dimensions": {
+   "width": "30.25 ft",
+   "depth": "49.69 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-031",
+  "plotNumber": "31",
+  "polygon": [
+   {
+    "x": 0.0,
+    "y": 50.1
+   },
+   {
+    "x": 30.0,
+    "y": 50.1
+   },
+   {
+    "x": 30.0,
+    "y": 100.2
+   },
+   {
+    "x": 0.0,
+    "y": 100.2
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 15.0,
+   "y": 75.15
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-030",
+  "plotNumber": "30",
+  "polygon": [
+   {
+    "x": 30.0,
+    "y": 50.1
+   },
+   {
+    "x": 60.0,
+    "y": 50.1
+   },
+   {
+    "x": 60.0,
+    "y": 100.2
+   },
+   {
+    "x": 30.0,
+    "y": 100.2
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 45.0,
+   "y": 75.15
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-029",
+  "plotNumber": "29",
+  "polygon": [
+   {
+    "x": 60.0,
+    "y": 50.1
+   },
+   {
+    "x": 90.0,
+    "y": 50.1
+   },
+   {
+    "x": 90.0,
+    "y": 100.2
+   },
+   {
+    "x": 60.0,
+    "y": 100.2
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 75.0,
+   "y": 75.15
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-028",
+  "plotNumber": "28",
+  "polygon": [
+   {
+    "x": 90.0,
+    "y": 50.1
+   },
+   {
+    "x": 120.0,
+    "y": 50.1
+   },
+   {
+    "x": 120.0,
+    "y": 100.2
+   },
+   {
+    "x": 90.0,
+    "y": 100.2
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 105.0,
+   "y": 75.15
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-027",
+  "plotNumber": "27",
+  "polygon": [
+   {
+    "x": 120.0,
+    "y": 50.1
+   },
+   {
+    "x": 150.75,
+    "y": 50.1
+   },
+   {
+    "x": 150.75,
+    "y": 99.86
+   },
+   {
+    "x": 120.0,
+    "y": 99.86
+   }
+  ],
+  "area": 1530.12,
+  "areaSqYd": 170.0,
+  "center": {
+   "x": 135.37,
+   "y": 74.98
+  },
+  "dimensions": {
+   "width": "30.75 ft",
+   "depth": "49.76 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-015",
+  "plotNumber": "15",
+  "polygon": [
+   {
+    "x": 183.75,
+    "y": 0.0
+   },
+   {
+    "x": 235.75,
+    "y": 0.0
+   },
+   {
+    "x": 235.75,
+    "y": 46.56
+   },
+   {
+    "x": 183.75,
+    "y": 46.56
+   }
+  ],
+  "area": 2421.12,
+  "areaSqYd": 269.0,
+  "center": {
+   "x": 209.75,
+   "y": 23.28
+  },
+  "dimensions": {
+   "width": "52.00 ft",
+   "depth": "46.56 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-026",
+  "plotNumber": "26",
+  "polygon": [
+   {
+    "x": 183.75,
+    "y": 46.56
+   },
+   {
+    "x": 235.5,
+    "y": 46.56
+   },
+   {
+    "x": 235.5,
+    "y": 96.65
+   },
+   {
+    "x": 183.75,
+    "y": 96.65
+   }
+  ],
+  "area": 2592.16,
+  "areaSqYd": 288.0,
+  "center": {
+   "x": 209.63,
+   "y": 71.61
+  },
+  "dimensions": {
+   "width": "51.75 ft",
+   "depth": "50.09 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-016",
+  "plotNumber": "16",
+  "polygon": [
+   {
+    "x": 235.75,
+    "y": 0.0
+   },
+   {
+    "x": 265.75,
+    "y": 0.0
+   },
+   {
+    "x": 265.75,
+    "y": 50.1
+   },
+   {
+    "x": 235.75,
+    "y": 50.1
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 250.75,
+   "y": 25.05
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-017",
+  "plotNumber": "17",
+  "polygon": [
+   {
+    "x": 265.75,
+    "y": 0.0
+   },
+   {
+    "x": 295.75,
+    "y": 0.0
+   },
+   {
+    "x": 295.75,
+    "y": 50.1
+   },
+   {
+    "x": 265.75,
+    "y": 50.1
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 280.75,
+   "y": 25.05
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-018",
+  "plotNumber": "18",
+  "polygon": [
+   {
+    "x": 295.75,
+    "y": 0.0
+   },
+   {
+    "x": 325.75,
+    "y": 0.0
+   },
+   {
+    "x": 325.75,
+    "y": 50.1
+   },
+   {
+    "x": 295.75,
+    "y": 50.1
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 310.75,
+   "y": 25.05
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-019",
+  "plotNumber": "19",
+  "polygon": [
+   {
+    "x": 325.75,
+    "y": 0.0
+   },
+   {
+    "x": 355.75,
+    "y": 0.0
+   },
+   {
+    "x": 355.75,
+    "y": 50.1
+   },
+   {
+    "x": 325.75,
+    "y": 50.1
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 340.75,
+   "y": 25.05
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-020",
+  "plotNumber": "20",
+  "polygon": [
+   {
+    "x": 355.75,
+    "y": 0.0
+   },
+   {
+    "x": 389.75,
+    "y": 0.0
+   },
+   {
+    "x": 389.75,
+    "y": 50.03
+   },
+   {
+    "x": 355.75,
+    "y": 50.03
+   }
+  ],
+  "area": 1701.02,
+  "areaSqYd": 189.0,
+  "center": {
+   "x": 372.75,
+   "y": 25.01
+  },
+  "dimensions": {
+   "width": "34.00 ft",
+   "depth": "50.03 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-025",
+  "plotNumber": "25",
+  "polygon": [
+   {
+    "x": 235.75,
+    "y": 50.1
+   },
+   {
+    "x": 265.75,
+    "y": 50.1
+   },
+   {
+    "x": 265.75,
+    "y": 100.2
+   },
+   {
+    "x": 235.75,
+    "y": 100.2
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 250.75,
+   "y": 75.15
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-024",
+  "plotNumber": "24",
+  "polygon": [
+   {
+    "x": 265.75,
+    "y": 50.1
+   },
+   {
+    "x": 295.75,
+    "y": 50.1
+   },
+   {
+    "x": 295.75,
+    "y": 100.2
+   },
+   {
+    "x": 265.75,
+    "y": 100.2
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 280.75,
+   "y": 75.15
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-023",
+  "plotNumber": "23",
+  "polygon": [
+   {
+    "x": 295.75,
+    "y": 50.1
+   },
+   {
+    "x": 325.75,
+    "y": 50.1
+   },
+   {
+    "x": 325.75,
+    "y": 100.2
+   },
+   {
+    "x": 295.75,
+    "y": 100.2
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 310.75,
+   "y": 75.15
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-022",
+  "plotNumber": "22",
+  "polygon": [
+   {
+    "x": 325.75,
+    "y": 50.1
+   },
+   {
+    "x": 355.75,
+    "y": 50.1
+   },
+   {
+    "x": 355.75,
+    "y": 100.2
+   },
+   {
+    "x": 325.75,
+    "y": 100.2
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 340.75,
+   "y": 75.15
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-021",
+  "plotNumber": "21",
+  "polygon": [
+   {
+    "x": 355.75,
+    "y": 50.1
+   },
+   {
+    "x": 385.75,
+    "y": 50.1
+   },
+   {
+    "x": 385.75,
+    "y": 100.2
+   },
+   {
+    "x": 355.75,
+    "y": 100.2
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 370.75,
+   "y": 75.15
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-032",
+  "plotNumber": "32",
+  "polygon": [
+   {
+    "x": 0.0,
+    "y": 133.2
+   },
+   {
+    "x": 29.0,
+    "y": 133.2
+   },
+   {
+    "x": 29.0,
+    "y": 183.17
+   },
+   {
+    "x": 0.0,
+    "y": 183.17
+   }
+  ],
+  "area": 1449.13,
+  "areaSqYd": 161.0,
+  "center": {
+   "x": 14.5,
+   "y": 158.18
+  },
+  "dimensions": {
+   "width": "29.00 ft",
+   "depth": "49.97 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-033",
+  "plotNumber": "33",
+  "polygon": [
+   {
+    "x": 29.0,
+    "y": 133.2
+   },
+   {
+    "x": 59.0,
+    "y": 133.2
+   },
+   {
+    "x": 59.0,
+    "y": 183.3
+   },
+   {
+    "x": 29.0,
+    "y": 183.3
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 44.0,
+   "y": 158.25
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-034",
+  "plotNumber": "34",
+  "polygon": [
+   {
+    "x": 59.0,
+    "y": 133.2
+   },
+   {
+    "x": 89.0,
+    "y": 133.2
+   },
+   {
+    "x": 89.0,
+    "y": 183.3
+   },
+   {
+    "x": 59.0,
+    "y": 183.3
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 74.0,
+   "y": 158.25
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-035",
+  "plotNumber": "35",
+  "polygon": [
+   {
+    "x": 89.0,
+    "y": 133.2
+   },
+   {
+    "x": 119.0,
+    "y": 133.2
+   },
+   {
+    "x": 119.0,
+    "y": 183.3
+   },
+   {
+    "x": 89.0,
+    "y": 183.3
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 104.0,
+   "y": 158.25
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-036",
+  "plotNumber": "36",
+  "polygon": [
+   {
+    "x": 119.0,
+    "y": 133.2
+   },
+   {
+    "x": 150.25,
+    "y": 133.2
+   },
+   {
+    "x": 150.25,
+    "y": 184.18
+   },
+   {
+    "x": 119.0,
+    "y": 184.18
+   }
+  ],
+  "area": 1593.12,
+  "areaSqYd": 177.0,
+  "center": {
+   "x": 134.63,
+   "y": 158.69
+  },
+  "dimensions": {
+   "width": "31.25 ft",
+   "depth": "50.98 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-053",
+  "plotNumber": "53",
+  "polygon": [
+   {
+    "x": 0.0,
+    "y": 184.18
+   },
+   {
+    "x": 29.0,
+    "y": 184.18
+   },
+   {
+    "x": 29.0,
+    "y": 234.15
+   },
+   {
+    "x": 0.0,
+    "y": 234.15
+   }
+  ],
+  "area": 1449.13,
+  "areaSqYd": 161.0,
+  "center": {
+   "x": 14.5,
+   "y": 209.16
+  },
+  "dimensions": {
+   "width": "29.00 ft",
+   "depth": "49.97 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-052",
+  "plotNumber": "52",
+  "polygon": [
+   {
+    "x": 29.0,
+    "y": 184.18
+   },
+   {
+    "x": 59.0,
+    "y": 184.18
+   },
+   {
+    "x": 59.0,
+    "y": 234.28
+   },
+   {
+    "x": 29.0,
+    "y": 234.28
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 44.0,
+   "y": 209.23
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-051",
+  "plotNumber": "51",
+  "polygon": [
+   {
+    "x": 59.0,
+    "y": 184.18
+   },
+   {
+    "x": 89.0,
+    "y": 184.18
+   },
+   {
+    "x": 89.0,
+    "y": 234.28
+   },
+   {
+    "x": 59.0,
+    "y": 234.28
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 74.0,
+   "y": 209.23
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-050",
+  "plotNumber": "50",
+  "polygon": [
+   {
+    "x": 89.0,
+    "y": 184.18
+   },
+   {
+    "x": 119.0,
+    "y": 184.18
+   },
+   {
+    "x": 119.0,
+    "y": 234.28
+   },
+   {
+    "x": 89.0,
+    "y": 234.28
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 104.0,
+   "y": 209.23
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+{
+   "id": "karthikeya-plot-049",
+   "plotNumber": "49",
+   "polygon": [
+    {
+     "x": 119,
+     "y": 184.18
+    },
+    {
+     "x": 150.75,
+     "y": 184.18
+    },
+    {
+     "x": 150.75,
+     "y": 233.92
+    },
+    {
+     "x": 119,
+     "y": 233.92
+    }
+   ],
+  "area": 1579.24,
+  "areaSqYd": 175.0,
+  "center": {
+   "x": 135.37,
+   "y": 209.05
+  },
+  "dimensions": {
+   "width": "32.75 ft",
+   "depth": "49.74 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-037",
+  "plotNumber": "37",
+  "polygon": [
+   {
+    "x": 183.75,
+    "y": 133.2
+   },
+   {
+    "x": 205.62,
+    "y": 133.2
+   },
+   {
+    "x": 205.62,
+    "y": 183.2
+   },
+   {
+    "x": 183.75,
+    "y": 183.2
+   }
+  ],
+  "area": 1093.5,
+  "areaSqYd": 121.5,
+  "center": {
+   "x": 194.69,
+   "y": 158.2
+  },
+"dimensions": {
+    "width": "21.87 ft",
+    "depth": "50.00 ft"
+   },
+   "status": "available"
+  },
+  {
+   "id": "karthikeya-plot-037b",
+   "plotNumber": "37",
+   "polygon": [
+    {
+     "x": 205.62,
+     "y": 133.2
+    },
+    {
+     "x": 227.49,
+     "y": 133.2
+    },
+    {
+     "x": 227.49,
+     "y": 183.2
+    },
+    {
+     "x": 205.62,
+     "y": 183.2
+    }
+   ],
+   "area": 1093.5,
+   "areaSqYd": 121.5,
+   "center": {
+    "x": 216.55,
+    "y": 158.2
+   },
+   "dimensions": {
+    "width": "21.87 ft",
+    "depth": "50.00 ft"
+   },
+   "status": "available"
+  },
+  {
+   "id": "karthikeya-plot-038",
+  "plotNumber": "38",
+  "polygon": [
+   {
+    "x": 227.49,
+    "y": 133.2
+   },
+   {
+    "x": 246.74,
+    "y": 133.2
+   },
+   {
+    "x": 246.74,
+    "y": 183.23
+   },
+   {
+    "x": 227.49,
+    "y": 183.23
+   }
+  ],
+  "area": 963.08,
+  "areaSqYd": 107.0,
+  "center": {
+   "x": 237.12,
+   "y": 158.22
+  },
+"dimensions": {
+    "width": "19.25 ft",
+    "depth": "50.03 ft"
+   },
+   "status": "available"
+  },
+ {
+  "id": "karthikeya-plot-039",
+  "plotNumber": "39",
+  "polygon": [
+   {
+    "x": 246.74,
+    "y": 133.2
+   },
+   {
+    "x": 276.74,
+    "y": 133.2
+   },
+   {
+    "x": 276.74,
+    "y": 183.3
+   },
+   {
+    "x": 246.74,
+    "y": 183.3
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 261.74,
+   "y": 158.25
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-040",
+  "plotNumber": "40",
+  "polygon": [
+   {
+    "x": 276.74,
+    "y": 133.2
+   },
+   {
+    "x": 306.74,
+    "y": 133.2
+   },
+   {
+    "x": 306.74,
+    "y": 183.3
+   },
+   {
+    "x": 276.74,
+    "y": 183.3
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 291.74,
+   "y": 158.25
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-041",
+  "plotNumber": "41",
+  "polygon": [
+   {
+    "x": 306.74,
+    "y": 133.2
+   },
+   {
+    "x": 336.74,
+    "y": 133.2
+   },
+   {
+    "x": 336.74,
+    "y": 183.3
+   },
+   {
+    "x": 306.74,
+    "y": 183.3
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 321.74,
+   "y": 158.25
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-042",
+  "plotNumber": "42",
+  "polygon": [
+   {
+    "x": 336.74,
+    "y": 133.2
+   },
+   {
+    "x": 367.99,
+    "y": 133.2
+   },
+   {
+    "x": 367.99,
+    "y": 183.31
+   },
+   {
+    "x": 336.74,
+    "y": 183.31
+   }
+  ],
+  "area": 1565.94,
+  "areaSqYd": 174.0,
+  "center": {
+   "x": 352.37,
+   "y": 158.26
+  },
+  "dimensions": {
+   "width": "31.25 ft",
+   "depth": "50.11 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-048",
+  "plotNumber": "48",
+  "polygon": [
+   {
+    "x": 183.75,
+    "y": 183.31
+   },
+   {
+    "x": 227.5,
+    "y": 183.31
+   },
+   {
+    "x": 227.5,
+    "y": 233.3
+   },
+   {
+    "x": 183.75,
+    "y": 233.3
+   }
+  ],
+  "area": 2187.06,
+  "areaSqYd": 243.0,
+  "center": {
+   "x": 205.62,
+   "y": 208.31
+  },
+  "dimensions": {
+   "width": "43.75 ft",
+   "depth": "49.99 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-047",
+  "plotNumber": "47",
+  "polygon": [
+   {
+    "x": 227.5,
+    "y": 183.31
+   },
+   {
+    "x": 257.5,
+    "y": 183.31
+   },
+   {
+    "x": 257.5,
+    "y": 233.41
+   },
+   {
+    "x": 227.5,
+    "y": 233.41
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 242.5,
+   "y": 208.36
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-046",
+  "plotNumber": "46",
+  "polygon": [
+   {
+    "x": 257.5,
+    "y": 183.31
+   },
+   {
+    "x": 287.5,
+    "y": 183.31
+   },
+   {
+    "x": 287.5,
+    "y": 233.41
+   },
+   {
+    "x": 257.5,
+    "y": 233.41
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 272.5,
+   "y": 208.36
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-045",
+  "plotNumber": "45",
+  "polygon": [
+   {
+    "x": 287.5,
+    "y": 183.31
+   },
+   {
+    "x": 317.5,
+    "y": 183.31
+   },
+   {
+    "x": 317.5,
+    "y": 233.41
+   },
+   {
+    "x": 287.5,
+    "y": 233.41
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 302.5,
+   "y": 208.36
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-044",
+  "plotNumber": "44",
+  "polygon": [
+   {
+    "x": 317.5,
+    "y": 183.31
+   },
+   {
+    "x": 347.5,
+    "y": 183.31
+   },
+   {
+    "x": 347.5,
+    "y": 233.41
+   },
+   {
+    "x": 317.5,
+    "y": 233.41
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 332.5,
+   "y": 208.36
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-043",
+  "plotNumber": "43",
+  "polygon": [
+   {
+    "x": 347.5,
+    "y": 183.31
+   },
+   {
+    "x": 377.5,
+    "y": 183.31
+   },
+   {
+    "x": 377.5,
+    "y": 233.41
+   },
+   {
+    "x": 347.5,
+    "y": 233.41
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 362.5,
+   "y": 208.36
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-054",
+  "plotNumber": "54",
+  "polygon": [
+   {
+    "x": 0.0,
+    "y": 267.28
+   },
+   {
+    "x": 28.5,
+    "y": 267.28
+   },
+   {
+    "x": 28.5,
+    "y": 315.91
+   },
+   {
+    "x": 0.0,
+    "y": 315.91
+   }
+  ],
+  "area": 1385.96,
+  "areaSqYd": 154.0,
+  "center": {
+   "x": 14.25,
+   "y": 291.59
+  },
+  "dimensions": {
+   "width": "28.50 ft",
+   "depth": "48.63 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-055",
+  "plotNumber": "55",
+  "polygon": [
+   {
+    "x": 28.5,
+    "y": 267.28
+   },
+   {
+    "x": 58.5,
+    "y": 267.28
+   },
+   {
+    "x": 58.5,
+    "y": 317.38
+   },
+   {
+    "x": 28.5,
+    "y": 317.38
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 43.5,
+   "y": 292.33
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-056",
+  "plotNumber": "56",
+  "polygon": [
+   {
+    "x": 58.5,
+    "y": 267.28
+   },
+   {
+    "x": 88.5,
+    "y": 267.28
+   },
+   {
+    "x": 88.5,
+    "y": 317.38
+   },
+   {
+    "x": 58.5,
+    "y": 317.38
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 73.5,
+   "y": 292.33
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-057",
+  "plotNumber": "57",
+  "polygon": [
+   {
+    "x": 88.5,
+    "y": 267.28
+   },
+   {
+    "x": 118.5,
+    "y": 267.28
+   },
+   {
+    "x": 118.5,
+    "y": 317.38
+   },
+   {
+    "x": 88.5,
+    "y": 317.38
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 103.5,
+   "y": 292.33
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+{
+   "id": "karthikeya-plot-058",
+   "plotNumber": "58",
+   "polygon": [
+    {
+     "x": 118.5,
+     "y": 267.28
+    },
+    {
+     "x": 150.75,
+     "y": 267.28
+    },
+    {
+     "x": 150.75,
+     "y": 317.73
+    },
+    {
+     "x": 118.5,
+     "y": 317.73
+    }
+   ],
+  "area": 1627.01,
+  "areaSqYd": 181.0,
+  "center": {
+   "x": 135.0,
+   "y": 292.51
+  },
+  "dimensions": {
+   "width": "33.00 ft",
+   "depth": "50.45 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-067",
+  "plotNumber": "67",
+   "polygon": [
+    {
+     "x": 53.25,
+     "y": 317.73
+    },
+    {
+     "x": 87.0,
+     "y": 317.73
+    },
+    {
+     "x": 87.0,
+     "y": 362.26
+    },
+    {
+     "x": 53.25,
+     "y": 362.26
+    }
+   ],
+   "area": 1502.89,
+   "areaSqYd": 167.0,
+   "center": {
+    "x": 70.13,
+    "y": 340.0
+   },
+  "dimensions": {
+   "width": "33.75 ft",
+   "depth": "44.53 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-066",
+  "plotNumber": "66",
+   "polygon": [
+    {
+     "x": 87.0,
+     "y": 317.73
+    },
+    {
+     "x": 117.0,
+     "y": 317.73
+    },
+    {
+     "x": 117.0,
+     "y": 362.73
+    },
+    {
+     "x": 87.0,
+     "y": 362.73
+    }
+   ],
+   "area": 1350.0,
+   "areaSqYd": 150.0,
+   "center": {
+    "x": 102.0,
+    "y": 340.23
+   },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "45.00 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-065",
+  "plotNumber": "65",
+   "polygon": [
+    {
+     "x": 117.0,
+     "y": 317.73
+    },
+    {
+     "x": 150.75,
+     "y": 317.73
+    },
+    {
+     "x": 150.75,
+     "y": 362.53
+    },
+    {
+     "x": 117.0,
+     "y": 362.53
+    }
+   ],
+   "area": 1512.0,
+   "areaSqYd": 168.0,
+   "center": {
+    "x": 133.88,
+    "y": 340.13
+   },
+  "dimensions": {
+   "width": "33.75 ft",
+   "depth": "44.80 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-059",
+  "plotNumber": "59",
+  "polygon": [
+   {
+    "x": 183.75,
+    "y": 267.28
+   },
+   {
+    "x": 229.75,
+    "y": 267.28
+   },
+   {
+    "x": 229.75,
+    "y": 319.13
+   },
+   {
+    "x": 183.75,
+    "y": 319.13
+   }
+  ],
+  "area": 2385.1,
+  "areaSqYd": 265.0,
+  "center": {
+   "x": 206.75,
+   "y": 293.21
+  },
+  "dimensions": {
+   "width": "46.00 ft",
+   "depth": "51.85 ft"
+  },
+  "status": "available"
+ },
+ {
+  "id": "karthikeya-plot-060",
+  "plotNumber": "60",
+  "polygon": [
+   {
+    "x": 229.75,
+    "y": 267.28
+   },
+   {
+    "x": 259.75,
+    "y": 267.28
+   },
+   {
+    "x": 259.75,
+    "y": 317.38
+   },
+   {
+    "x": 229.75,
+    "y": 317.38
+   }
+  ],
+  "area": 1503.0,
+  "areaSqYd": 167.0,
+  "center": {
+   "x": 244.75,
+   "y": 292.33
+  },
+  "dimensions": {
+   "width": "30.00 ft",
+   "depth": "50.10 ft"
+  },
+  "status": "available"
+ },
+{
+   "id": "karthikeya-plot-064",
+   "plotNumber": "64",
+   "polygon": [
+    {
+     "x": 183.75,
+     "y": 319.13
+    },
+    {
+     "x": 229.75,
+     "y": 319.13
+    },
+    {
+     "x": 229.75,
+     "y": 362.73
+    },
+    {
+     "x": 183.75,
+     "y": 362.73
+    }
+   ],
+  "area": 2005.6,
+  "areaSqYd": 222.0,
+  "center": {
+   "x": 206.75,
+   "y": 341.63
+  },
+  "dimensions": {
+   "width": "46.00 ft",
+   "depth": "45.00 ft"
+  },
+  "status": "available"
+ },
+{
+   "id": "karthikeya-plot-061",
+   "plotNumber": "61",
+   "polygon": [
+    {
+     "x": 259.75,
+     "y": 267.28
+    },
+    {
+     "x": 288.11,
+     "y": 267.28
+    },
+    {
+     "x": 288.11,
+     "y": 333.66
+    },
+    {
+     "x": 259.75,
+     "y": 341.53
+    }
+   ],
+   "area": 1994.2,
+   "areaSqYd": 234.0,
+   "center": {
+    "x": 273.93,
+    "y": 302.48
+   },
+  "dimensions": {
+   "width": "28.36 ft",
+   "depth": "74.25 ft"
+  },
+  "needsReview": true,
+  "reviewNote": "Width back-solved from printed area and an approximate depth reading; rotated dimension callouts were ambiguous. Geometry corrected this pass: south edge traced as one continuous diagonal line shared across plots 61/62/63 (matching the source's slanted dimension callouts there, and the fact that the three original flat-bottom rectangles' corners were already near-colinear) instead of three independent flat-bottomed rectangles.",
+  "status": "available"
+ },
+{
+   "id": "karthikeya-plot-062",
+   "plotNumber": "62",
+   "polygon": [
+    {
+     "x": 288.11,
+     "y": 267.28
+    },
+    {
+     "x": 316.61,
+     "y": 267.28
+    },
+    {
+     "x": 316.61,
+     "y": 325.76
+    },
+    {
+     "x": 288.11,
+     "y": 333.66
+    }
+   ],
+   "area": 1779.33,
+   "areaSqYd": 210.0,
+   "center": {
+    "x": 302.36,
+    "y": 298.54
+   },
+  "dimensions": {
+   "width": "28.50 ft",
+   "depth": "66.25 ft"
+  },
+  "needsReview": true,
+  "reviewNote": "Width back-solved from printed area and an approximate depth reading; rotated dimension callouts were ambiguous. Geometry corrected this pass: south edge traced as one continuous diagonal line shared across plots 61/62/63 (matching the source's slanted dimension callouts there, and the fact that the three original flat-bottom rectangles' corners were already near-colinear) instead of three independent flat-bottomed rectangles.",
+  "status": "available"
+ },
+{
+   "id": "karthikeya-plot-063",
+   "plotNumber": "63",
+   "polygon": [
+    {
+     "x": 316.61,
+     "y": 267.28
+    },
+    {
+     "x": 380.36,
+     "y": 267.28
+    },
+    {
+     "x": 380.36,
+     "y": 308.08
+    },
+    {
+     "x": 316.61,
+     "y": 325.76
+    }
+   ],
+   "area": 3164.56,
+   "areaSqYd": 289.0,
+   "center": {
+    "x": 346.59,
+    "y": 292.36
+   },
+  "dimensions": {
+   "width": "63.75 ft",
+   "depth": "40.80 ft"
+  },
+  "needsReview": true,
+  "reviewNote": " Geometry corrected this pass: south edge traced as one continuous diagonal line shared across plots 61/62/63 (matching the source's slanted dimension callouts there, and the fact that the three original flat-bottom rectangles' corners were already near-colinear) instead of three independent flat-bottomed rectangles.",
+  "status": "available"
+ }
+]

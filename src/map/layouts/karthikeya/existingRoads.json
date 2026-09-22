@@ -1,0 +1,60 @@
+[
+ {
+  "id": "karthikeya-highway-guntur-hyderabad",
+  "type": "highway",
+  "label": "Guntur to Hydrabad",
+  "polygon": [
+   {
+    "x": 480,
+    "y": -210
+   },
+   {
+    "x": 560,
+    "y": -210
+   },
+   {
+    "x": 566,
+    "y": 330
+   },
+   {
+    "x": 585,
+    "y": 345
+   },
+   {
+    "x": 566,
+    "y": 360
+   },
+   {
+    "x": 560,
+    "y": 430
+   },
+   {
+    "x": 480,
+    "y": 430
+   },
+   {
+    "x": 474,
+    "y": 360
+   },
+   {
+    "x": 455,
+    "y": 345
+   },
+   {
+    "x": 474,
+    "y": 330
+   }
+  ],
+  "path": [
+   {
+    "x": 520,
+    "y": -210
+   },
+   {
+    "x": 520,
+    "y": 430
+   }
+  ],
+   "precision": "source-traced: wider near-black band (visibly wider than the grey internal 33'/40' roads) running the full north-south extent on the east side of the layout, with a small chevron/notch tapering at both the north and south ends where the source drawing's tree-buffer strip meets it. Width is not printed/dimensioned in the source, so its band width is an approximation; its shape/position are traced."
+ }
+]

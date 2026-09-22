@@ -1,0 +1,111 @@
+{
+ "id": "karthikeya-boundary-outer",
+ "label": "Outer Layout Boundary",
+ "polygon": [
+  {
+   "x": 0,
+   "y": -180
+  },
+  {
+   "x": 170,
+   "y": -158
+  },
+  {
+   "x": 390,
+   "y": -70
+  },
+  {
+   "x": 449.75,
+   "y": -40
+  },
+  {
+   "x": 449.75,
+   "y": 0
+  },
+  {
+   "x": 449.75,
+   "y": 100.2
+  },
+  {
+   "x": 476.55,
+   "y": 100.2
+  },
+  {
+   "x": 476.19,
+   "y": 133.2
+  },
+  {
+   "x": 449.75,
+   "y": 133.2
+  },
+  {
+   "x": 413.36,
+   "y": 133.2
+  },
+  {
+   "x": 413.36,
+   "y": 308.08
+  },
+  {
+   "x": 380.36,
+   "y": 308.08
+  },
+  {
+   "x": 259.75,
+   "y": 341.53
+  },
+  {
+   "x": 259.75,
+   "y": 395.73
+  },
+  {
+   "x": 183.75,
+   "y": 395.73
+  },
+  {
+   "x": 183.75,
+   "y": 460
+  },
+  {
+   "x": 150.75,
+   "y": 460
+  },
+  {
+   "x": 150.75,
+   "y": 430
+  },
+  {
+   "x": 60,
+   "y": 455
+  },
+  {
+   "x": 0,
+   "y": 400
+  },
+  {
+   "x": 0,
+   "y": 362.73
+  },
+  {
+   "x": 53.25,
+   "y": 362.26
+  },
+  {
+   "x": 53.25,
+   "y": 317.73
+  },
+  {
+   "x": 28.5,
+   "y": 317.38
+  },
+  {
+   "x": 28.5,
+   "y": 315.91
+  },
+  {
+   "x": 0,
+   "y": 315.91
+  }
+ ],
+ "precision": "derived outer envelope (26 vertices) containing the union of all layout elements. EAST-FLANK NOTCH ADDED for the restored 33'-0\" road-to-highway connection (reference order CONNECTING ROAD -> 33'-0\" ROAD -> MAIN GUNTUR-HYDERABAD ROAD): the 33'-0\" road H1 (between the Plot 21 row and the Plot 42 row) is extended east of x449.75 toward the highway, so the boundary steps out from (449.75,100.2) to (476.55,100.2) and back diagonally to (476.19,133.2) - hugging H1's visible extension up to the Guntur-Hyderabad highway's west edge (drawn on top); H1's sliver x476.x..480 is the final connection lying under the highway and stays outside the boundary by design. Everything else is unchanged: straight east flank at x449.75 for y<=100.2 (top-40 / 40'-0\" connecting road / open-space strip), the plot-63-east road east edge at x413.36 (y133.2..308.08), the diagonal to (259.75,341.53), the 60/64 open space east edge, the south-west wrap and the spine road bottom (y460). The highway and the LPM 3427 marker stay intentionally excluded."
+}

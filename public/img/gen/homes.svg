@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a1147"/>
+      <stop offset="1" stop-color="#921a44"/>
+    </linearGradient>
+    <linearGradient id="lawn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#307a52"/>
+      <stop offset="1" stop-color="#245f40"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky6)"/>
+  <rect y="560" width="1200" height="340" fill="url(#lawn)"/>
+  <path d="M0 560 Q300 510 600 560 T1200 560" fill="none" stroke="#f2c14e" stroke-opacity="0.5" stroke-width="4"/>
+  <g fill="#fdf3dd">
+    <rect x="640" y="430" width="26" height="130" rx="5"/>
+    <rect x="618" y="430" width="70" height="70" rx="4"/>
+    <path d="M600 430 l79 0 l-39 -34 z" />
+  </g>
+  <g fill="#f8f4ee">
+    <rect x="150" y="360" width="240" height="230" rx="12"/>
+    <rect x="470" y="320" width="260" height="270" rx="12"/>
+    <rect x="810" y="360" width="240" height="230" rx="12"/>
+  </g>
+  <g fill="#6b1031">
+    <rect x="172" y="382" width="196" height="120" rx="8"/>
+    <rect x="492" y="342" width="216" height="130" rx="8"/>
+    <rect x="832" y="382" width="196" height="120" rx="8"/>
+    <path d="M180 502 l0 40 q0 8 26 8 l0 -48 z" />
+    <path d="M500 472 l0 44 q0 8 26 8 l0 -52 z" />
+    <path d="M840 502 l0 40 q0 8 26 8 l0 -48 z" />
+  </g>
+  <g fill="#d99b28">
+    <rect x="172" y="382" width="38" height="16" rx="3"/>
+    <rect x="322" y="382" width="46" height="16" rx="3"/>
+    <rect x="492" y="342" width="44" height="18" rx="3"/>
+    <rect x="656" y="342" width="52" height="18" rx="3"/>
+    <rect x="832" y="382" width="38" height="16" rx="3"/>
+    <rect x="982" y="382" width="46" height="16" rx="3"/>
+    <rect x="496" y="392" width="44" height="70" rx="4"/>
+    <rect x="650" y="356" width="52" height="82" rx="4"/>
+    <rect x="180" y="404" width="46" height="40" rx="3" fill="#f2c14e"/>
+    <rect x="840" y="404" width="46" height="40" rx="3" fill="#f2c14e"/>
+  </g>
+  <g fill="#1b2a52">
+    <circle cx="260" cy="640" r="20"/><circle cx="600" cy="660" r="22"/><circle cx="920" cy="640" r="20"/>
+  </g>
+  <g fill="#2f7d4f">
+    <path d="M260 616 l0 -40 q-30 -6 -42 26 z"/><circle cx="248" cy="596" r="12"/>
+    <path d="M600 634 l0 -44 q-32 -7 -46 28 z"/><circle cx="586" cy="612" r="13"/>
+    <path d="M920 616 l0 -40 q-30 -6 -42 26 z"/><circle cx="908" cy="596" r="12"/>
+  </g>
+  <text x="600" y="96" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="30" letter-spacing="10" fill="#f2c14e">EXECUTIVE HOMES · DREAM HOME</text>
+</svg>

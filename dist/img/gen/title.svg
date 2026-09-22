@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg14" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101a38"/>
+      <stop offset="1" stop-color="#4a1147"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg14)"/>
+  <g opacity="0.15">
+    <rect x="80" y="80" width="1040" height="740" fill="none" stroke="#f2c14e" stroke-width="2"/>
+    <path d="M120 400 h960 M600 120 v660" stroke="#f2c14e" stroke-width="2"/>
+  </g>
+  <g stroke="#f2c14e" stroke-width="6" fill="#1b2a52">
+    <path d="M600 220 L860 350 L600 480 L340 350 Z"/>
+    <path d="M600 320 L740 390 L600 460 L460 390 Z" fill="#d99b28" stroke="#4a1147" stroke-width="3"/>
+  </g>
+  <g>
+    <path d="M600 560 l-60 60 h120 z" fill="#f2c14e" stroke="#4a1147" stroke-width="4"/>
+    <path d="M600 520 l-34 40 h68 z" fill="#d99b28" stroke="#4a1147" stroke-width="3"/>
+  </g>
+  <g fill="#2f7d4f">
+    <circle cx="250" cy="640" r="26"/><path d="M250 600 l0 -50 q-40 -10 -56 34 z" fill="#2f7d4f"/>
+    <circle cx="950" cy="640" r="26"/><path d="M950 600 l0 -50 q-40 -10 -56 34 z" fill="#2f7d4f"/>
+  </g>
+  <g fill="none" stroke="#fdf3dd" stroke-width="8" stroke-linecap="round">
+    <path d="M520 430 l60 60 l-10 0 l60 -60"/>
+  </g>
+  <text x="600" y="760" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="30" letter-spacing="10" fill="#f2c14e">CLEAR TITLES · 100% VERIFIED</text>
+</svg>

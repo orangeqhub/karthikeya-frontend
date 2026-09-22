@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101a38"/>
+      <stop offset="1" stop-color="#2d2a68"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a3a44"/>
+      <stop offset="1" stop-color="#26252e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky4)"/>
+  <polygon points="0,900 0,720 1200,760 1200,900" fill="#4a1147"/>
+  <polygon points="0,720 1200,760 1200,860 0,860" fill="url(#road)"/>
+  <g stroke="#fdf3dd" stroke-opacity="0.85" stroke-width="6" stroke-dasharray="50 34">
+    <line x1="0" y1="800" x2="1200" y2="835"/>
+  </g>
+  <g fill="#d99b28">
+    <rect x="130" y="560" width="12" height="180" rx="5"/>
+    <rect x="360" y="560" width="12" height="180" rx="5"/>
+    <rect x="590" y="560" width="12" height="180" rx="5"/>
+    <rect x="820" y="560" width="12" height="180" rx="5"/>
+    <rect x="1050" y="560" width="12" height="180" rx="5"/>
+  </g>
+  <g fill="#f2c14e">
+    <ellipse cx="136" cy="558" rx="16" ry="10"/>
+    <ellipse cx="366" cy="558" rx="16" ry="10"/>
+    <ellipse cx="596" cy="558" rx="16" ry="10"/>
+    <ellipse cx="826" cy="558" rx="16" ry="10"/>
+    <ellipse cx="1056" cy="558" rx="16" ry="10"/>
+  </g>
+  <g fill="#2f7d4f">
+    <circle cx="200" cy="480" r="22"/><circle cx="280" cy="500" r="18"/>
+    <circle cx="470" cy="480" r="22"/><circle cx="680" cy="490" r="20"/>
+    <circle cx="920" cy="480" r="22"/><circle cx="1010" cy="500" r="18"/>
+  </g>
+  <g fill="#6b1031" opacity="0.95">
+    <rect x="90" y="150" width="220" height="150" rx="10"/>
+    <rect x="340" y="120" width="220" height="150" rx="10"/>
+    <rect x="590" y="150" width="220" height="150" rx="10"/>
+    <rect x="840" y="120" width="220" height="150" rx="10"/>
+  </g>
+  <g stroke="#f2c14e" stroke-width="3" fill="none" opacity="0.85">
+    <rect x="108" y="168" width="184" height="114" rx="6"/>
+    <rect x="358" y="138" width="184" height="114" rx="6"/>
+    <rect x="608" y="168" width="184" height="114" rx="6"/>
+    <rect x="858" y="138" width="184" height="114" rx="6"/>
+  </g>
+  <g fill="#fdf3dd">
+    <rect x="180" y="470" width="30" height="20" rx="4" opacity="0.6"/>
+    <rect x="450" y="470" width="30" height="20" rx="4" opacity="0.6"/>
+    <rect x="930" y="470" width="30" height="20" rx="4" opacity="0.6"/>
+  </g>
+  <text x="600" y="76" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="30" letter-spacing="10" fill="#f2c14e">READY INFRASTRUCTURE · UNDERGROUND DRAINAGE + STREET LIGHTS</text>
+</svg>

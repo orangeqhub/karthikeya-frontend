@@ -1,0 +1,126 @@
+[
+ {
+  "id": "karthikeya-openspace-west",
+  "label": "OPEN SPACE Ac:0.456 Cents",
+  "polygon": [
+   {
+    "x": 0,
+    "y": 395.73
+   },
+   {
+    "x": 97.75,
+    "y": 395.73
+   },
+   {
+    "x": 150.75,
+    "y": 395.73
+   },
+   {
+    "x": 150.75,
+    "y": 430
+   },
+   {
+    "x": 60,
+    "y": 455
+   },
+   {
+    "x": 0,
+    "y": 400
+   }
+  ],
+  "precision": "hand-traced irregular polygon (dot-hatched green region, printed dimension 97'-9\" along its north edge); area label re-verified at 3x zoom crop this pass -- corrected from a prior misread of Ac:0.156 Cents to the actual printed Ac:0.456 Cents. Clipped to the outer layout boundary this pass: the SW corner now follows the red boundary line through its (60,455) vertex so all hatch corners lie on/inside the boundary."
+ },
+{
+    "id": "karthikeya-openspace-p5455",
+    "label": "OPEN SPACE",
+    "polygon": [
+     {
+      "x": 0,
+      "y": 315.91
+     },
+     {
+      "x": 28.5,
+      "y": 315.91
+     },
+     {
+      "x": 28.5,
+      "y": 317.38
+     },
+     {
+      "x": 53.25,
+      "y": 317.38
+     },
+     {
+      "x": 53.25,
+      "y": 395.73
+     },
+     {
+      "x": 0,
+      "y": 395.73
+     }
+    ],
+    "precision": "OPEN-SPACE ARRANGEMENT (per 2nd reference image): new landscaped open space added directly below Plots 54 and 55. Band x 0..53.25 from the plots' bottom edges (Plot 54 bottom y315.91, Plot 55 bottom y317.38) down to y395.73, staying WEST of the H3 33' road's west edge (x53.25) and of Plot 67's west edge, so it just touches/merges with the existing SW open space at karthikeya-openspace-west's top edge (y395.73). Plots 54/55 unchanged."
+   },
+   {
+    "id": "karthikeya-openspace-east",
+   "label": "OPEN SPACE Ac:0.118 Cents",
+   "polygon": [
+    {
+     "x": 183.75,
+     "y": 362.73
+    },
+    {
+     "x": 229.75,
+     "y": 362.73
+    },
+    {
+     "x": 229.75,
+     "y": 317.38
+    },
+    {
+     "x": 259.75,
+     "y": 317.38
+    },
+    {
+     "x": 259.75,
+     "y": 395.73
+    },
+    {
+     "x": 183.75,
+     "y": 395.73
+    }
+   ],
+   "precision": "OPEN-SPACE ARRANGEMENT (2nd reference image, corrected): open space now ONLY directly below Plots 60 and 64 - a single stair-step region confined to x 183.75..259.75. Step 1 (below Plot 60, its full width): x 229.75..259.75, y 317.38 (Plot 60's bottom edge) down to y395.73. Step 2 (below Plot 64, its full width): x 183.75..229.75, y 362.73 (Plot 64's bottom edge) down to y395.73. NO open space on the right side of Plots 61/62/63: the belly east of x259.75 (toward the highway) is intentionally left clear, and there is no L-shape running toward the SE corner/highway. Plots 60-64, roads, and the red layout boundary are unchanged; the SW open space (karthikeya-openspace-west) is preserved separately."
+  },
+  {
+   "id": "karthikeya-openspace-plots-2021",
+   "label": "OPEN SPACE",
+   "polygon": [
+    {
+     "x": 389.75,
+     "y": 0
+    },
+    {
+     "x": 389.75,
+     "y": 50.03
+    },
+    {
+     "x": 385.75,
+     "y": 50.1
+    },
+    {
+     "x": 385.75,
+     "y": 100.2
+    },
+    {
+     "x": 409.75,
+     "y": 100.2
+    },
+    {
+     "x": 409.75,
+     "y": 0
+    }
+   ],
+   "precision": "Plot 20/21 junction fix: clearly visible open-space strip placed immediately EAST of plots 20/21 (its west edge hugs plot 20's east edge x389.75 down to y50.03 then follows the kink to plot 21's east edge x385.75 down to y100.2), spanning y=0..100.2 between the top 40' road's south edge and the H1 road's north edge. Order matches the reference: PLOTS -> OPEN SPACE -> ROAD (the 40' connector road sits east of this strip at x409.75..449.75)."
+  }
+]

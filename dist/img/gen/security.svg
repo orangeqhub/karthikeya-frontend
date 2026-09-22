@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg9" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1730"/>
+      <stop offset="1" stop-color="#101a38"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg9)"/>
+  <g opacity="0.15">
+    <circle cx="300" cy="260" r="180" fill="none" stroke="#f2c14e" stroke-width="2" stroke-dasharray="4 14"/>
+  </g>
+  <g fill="#1b2a52" stroke="#f2c14e" stroke-width="4">
+    <rect x="180" y="240" width="220" height="380" rx="12"/>
+    <rect x="460" y="200" width="280" height="420" rx="12"/>
+    <rect x="800" y="240" width="220" height="380" rx="12"/>
+  </g>
+  <g fill="#921a44">
+    <polygon points="190,252 260,190 330,252" />
+    <polygon points="472,212 600,140 728,212" />
+    <polygon points="812,252 882,190 952,252" />
+  </g>
+  <g fill="#6b1031">
+    <rect x="200" y="300" width="180" height="120" rx="8"/>
+    <rect x="480" y="260" width="240" height="120" rx="8"/>
+    <rect x="820" y="300" width="180" height="120" rx="8"/>
+    <rect x="212" y="440" width="60" height="60" rx="6"/><rect x="294" y="440" width="60" height="60" rx="6"/>
+    <rect x="492" y="400" width="70" height="70" rx="6"/><rect x="584" y="400" width="70" height="70" rx="6"/><rect x="676" y="400" width="70" height="70" rx="6"/>
+    <rect x="832" y="440" width="60" height="60" rx="6"/><rect x="914" y="440" width="60" height="60" rx="6"/>
+  </g>
+  <g fill="#d99b28" stroke="#4a1147" stroke-width="3">
+    <path d="M600 650 l0 -40 q60 -10 86 40 z" fill="#f2c14e" stroke="none"/>
+    <path d="M600 668 l-8 -34 h16 z" />
+  </g>
+  <g fill="#f2c14e">
+    <rect x="548" y="720" width="104" height="60" rx="8" fill="#d99b28"/>
+    <text x="600" y="760" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="22" font-weight="700" fill="#4a1147">24×7</text>
+  </g>
+  <g fill="#2f7d4f">
+    <circle cx="300" cy="200" r="16"/><circle cx="910" cy="200" r="16"/>
+  </g>
+  <g stroke="#f2c14e" stroke-width="3" opacity="0.85">
+    <line x1="180" y1="130" x2="1020" y2="130"/>
+  </g>
+  <g fill="#f2c14e">
+    <circle cx="180" cy="130" r="6"/><circle cx="1020" cy="130" r="6"/>
+  </g>
+  <text x="600" y="92" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="30" letter-spacing="10" fill="#f2c14e">GATED SECURITY · CCTV · 24×7 AT THE GATE</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101a38"/>
+      <stop offset="1" stop-color="#2d2a68"/>
+    </linearGradient>
+    <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f7d4f"/>
+      <stop offset="1" stop-color="#1f5c38"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky5)"/>
+  <polygon points="0,430 1200,430 1200,900 0,900" fill="url(#grass)"/>
+  <polygon points="90,900 0,430 130,430 270,900" fill="#6b1031" opacity="0.94"/>
+  <polygon points="1110,900 1070,430 1200,430 1200,900" fill="#6b1031" opacity="0.94"/>
+  <path d="M0 430 Q600 360 1200 430" fill="none" stroke="#f2c14e" stroke-opacity="0.6" stroke-width="4"/>
+  <g stroke="#fdf3dd" stroke-width="26" stroke-linecap="round" opacity="0.9">
+    <line x1="150" y1="900" x2="180" y2="520"/>
+    <line x1="1020" y1="900" x2="1050" y2="520"/>
+  </g>
+  <g fill="#f2c14e">
+    <circle cx="150" cy="500" r="26"/><circle cx="1020" cy="500" r="26"/>
+    <circle cx="220" cy="560" r="14"/><circle cx="950" cy="560" r="14"/>
+    <circle cx="620" cy="620" r="16"/>
+  </g>
+  <g fill="#921a44">
+    <path d="M470 900 l0 -130 q10 -46 52 -46 q42 0 52 46 l0 130 z"/>
+    <path d="M560 900 l0 -110 q8 -38 44 -38 q36 0 44 38 l0 110 z"/>
+    <path d="M650 900 l0 -118 q9 -42 50 -42 q41 0 50 42 l0 118 z"/>
+    <path d="M360 900 l0 -104 q8 -36 44 -36 q36 0 44 36 l0 104 z"/>
+  </g>
+  <path d="M478 776 l0 -80 q8 -26 36 -26 q28 0 36 26 l0 80 z" fill="#f2c14e"/>
+  <path d="M566 800 l0 -70 q6 -22 30 -22 q24 0 30 22 l0 70 z" fill="#f2c14e"/>
+  <path d="M656 790 l0 -76 q7 -25 36 -25 q29 0 36 25 l0 76 z" fill="#f2c14e"/>
+  <path d="M366 822 l0 -62 q5 -20 28 -20 q23 0 28 20 l0 62 z" fill="#f2c14e"/>
+  <g stroke="#f2c14e" stroke-width="4" fill="none" opacity="0.9">
+    <rect x="446" y="330" width="160" height="120" rx="6"/>
+  </g>
+  <text x="1200" y="330" text-anchor="end" font-family="Poppins, Arial, sans-serif" font-size="26" letter-spacing="6" fill="#f2c14e" transform="translate(-40,0)">GREEN AVENUES · OPEN SPACES · KARTHIKEYA INFRA CES</text>
+</svg>

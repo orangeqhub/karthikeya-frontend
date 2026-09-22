@@ -1,0 +1,190 @@
+[
+ {
+  "id": "karthikeya-road-top-40",
+  "type": "proposed-40ft",
+  "label": "40'-0\" Feet Road",
+"polygon": [
+    {
+     "x": 0,
+     "y": -40
+    },
+    {
+     "x": 449.75,
+     "y": -40
+    },
+    {
+     "x": 449.75,
+     "y": 0
+    },
+    {
+     "x": 0,
+     "y": 0
+    }
+   ],
+   "precision": "source-traced band width/position; printed twice along its length (40'-0\" Feet Road at left and right) because it is one continuous road crossed by the N-S spine, not two separate roads. TOP BLUE-MARK FIX (per uploaded reference): its right end is extended eastward from x389.75 to x449.75 so it overruns the top of the vertical connecting road beside Plot 20 (karthikeya-road-east-40), which is drawn on the same lane and shares the y=0 edge with it - the 40'-0\" road cleanly bends down into the connecting road with no gap (the two bands' matching fills merge into one continuous L/turn at the junction). The connecting road's own junction chain is unchanged: it runs straight down the east flank, T-junctions the 33'-0\" road H1 beside plot 21, and H1 continues east into the main Guntur-Hyderabad road."
+ },
+ {
+  "id": "karthikeya-road-vertical-spine",
+  "type": "proposed-33ft",
+  "label": "33'-0\" Feet Road (N-S spine)",
+  "polygon": [
+   {
+    "x": 150.75,
+    "y": -40
+   },
+   {
+    "x": 183.75,
+    "y": -40
+   },
+   {
+    "x": 183.75,
+    "y": 460
+   },
+   {
+    "x": 150.75,
+    "y": 460
+   }
+  ],
+  "precision": "source-traced width from printed 33'-0\" Feet Road label; runs continuously the full north-south height of the plotted grid, confirmed by tracing the dashed centerline through every block."
+ },
+{
+   "id": "karthikeya-road-h1-33",
+   "type": "proposed-33ft",
+   "label": "33'-0\" Feet Road",
+ "polygon": [
+     {
+      "x": 0,
+      "y": 100.2
+     },
+     {
+      "x": 480,
+      "y": 100.2
+     },
+     {
+      "x": 480,
+      "y": 133.2
+     },
+     {
+      "x": 0,
+      "y": 133.2
+     }
+    ],
+    "precision": "source-traced band width/position (row 1 / row 2 divider) - the 33'-0\" FEET ROAD that runs BETWEEN the Plot 21 row above (y50.1..100.2) and the Plot 42 row below (y133.2..183.31). EAST-END HIGHWAY CONNECTION RESTORED (per reference order: CONNECTING ROAD -> 33'-0\" ROAD -> MAIN GUNTUR-HYDERABAD ROAD): the middle road (the 40'-0\" connecting road beside plots 20/21, karthikeya-road-east-40, whose band x409.75..449.75 fully overlaps this road's east strip y100.2..133.2) T-junctions this 33'-0\" road gap-free, and THIS 33'-0\" road's east end now runs continuously x0..480 INTO the Guntur-Hyderabad highway band (drawn on top) - so the plot-21/42 -> 33'-0\" road -> main road connection is complete and seamless. The connection is deliberately made through this 33'-0\" road only; the 40'-0\" connecting road is NOT itself extended toward the highway. The red boundary hugs this road's visible extension east of x449.75 up to the highway's west edge (the x476.x..480 sliver is the final connection, lying under the highway)."
+  },
+{
+   "id": "karthikeya-road-h2-33",
+   "type": "proposed-33ft",
+   "label": "33'-0\" Feet Road",
+   "polygon": [
+    {
+     "x": 0,
+     "y": 234.28
+    },
+    {
+     "x": 377.5,
+     "y": 234.28
+    },
+    {
+     "x": 380.36,
+     "y": 267.28
+    },
+    {
+     "x": 0,
+     "y": 267.28
+    }
+   ],
+   "path": [
+    {
+     "x": 0,
+     "y": 250.78
+    },
+    {
+     "x": 378.93,
+     "y": 250.78
+    }
+   ],
+   "precision": "ROAD ENDPOINT FIX: the road's east end was trimmed from x440 back to the outer edges of the adjacent plot rows it terminates along. Its top edge (y234.28) now ends exactly at Plot 43's outer/east edge (x377.5), and its bottom edge (y267.28) now ends exactly at Plot 63's outer/east edge (x380.36) - giving a clean stepped east end with no extra road space beyond either plot edge (the old x440 stub that ran into the red-boundary notch is removed). Since the east edge is now a short 2.86' diagonal from (377.5,234.28) to (380.36,267.28), the dashed centerline (path) terminates at its midpoint (378.93,250.78) instead of overshooting. Plots 43/63, all other roads, open spaces, red boundary and highway unchanged."
+  },
+{
+   "id": "karthikeya-road-h3-33",
+   "type": "proposed-33ft",
+   "label": "33'-0\" Feet Road",
+   "polygon": [
+    {
+     "x": 53.25,
+     "y": 362.73
+    },
+    {
+     "x": 150.75,
+     "y": 362.73
+    },
+    {
+     "x": 150.75,
+     "y": 395.73
+    },
+    {
+     "x": 53.25,
+     "y": 395.73
+    }
+],
+   "precision": "source-traced band width/position, west block only (row 3 / open-space divider). West end starts at plot 67's left edge (x53.25) and the band runs east to the N-S spine road (x150.75); there is NO road below the empty strip west of plot 67 or below the 59-64 block. The reference shows the 33' road is above the 59-63 row (h2), the vertical 33' road runs along the block's left, and the green open space sits directly below/right of plot 64."
+  },
+  {
+   "id": "karthikeya-road-east-40",
+   "type": "proposed-40ft",
+   "label": "40'-0\" Feet Road",
+   "polygon": [
+    {
+     "x": 409.75,
+     "y": 0
+    },
+    {
+     "x": 449.75,
+     "y": 0
+    },
+    {
+     "x": 449.75,
+     "y": 133.2
+    },
+    {
+     "x": 409.75,
+     "y": 133.2
+    }
+   ],
+"precision": "Connecting road around plots 20/21 (reference order: PLOTS -> OPEN SPACE -> CONNECTING ROAD -> 33'-0\" ROAD -> MAIN GUNTUR-HYDERABAD ROAD): a continuous 40'-0\" wide band on the east flank, x409.75..449.75, y=0..133.2, running beside the open-space strip (its west edge x409.75 = the open space's east edge, so it is NOT against plot 20/21). Its FIRST (and only) junction is the 33'-0\" road H1 at y100.2..133.2 - it OVERLAPS that band for a clean continuous T-junction, and its top edge (y=0) stays clear of the 40'-0\" top road, which remains separate (its east end stays at x389.75). Continuation to the main Guntur-Hyderabad road happens through the 33' road network: H1's east end now runs x0..480, into the highway band (drawn on top). Dashed centerline runs vertically at x429.75 (the band's true centre), consistent with the existing road width/centreline style."
+  },
+  {
+   "id": "karthikeya-road-plot63-east-33",
+   "type": "proposed-33ft",
+   "label": "33'-0\" Feet Road",
+   "polygon": [
+    {
+     "x": 380.36,
+     "y": 133.2
+    },
+    {
+     "x": 413.36,
+     "y": 133.2
+    },
+    {
+     "x": 413.36,
+     "y": 308.08
+    },
+    {
+     "x": 380.36,
+     "y": 308.08
+    }
+   ],
+   "path": [
+    {
+     "x": 396.86,
+     "y": 133.2
+    },
+    {
+     "x": 396.86,
+     "y": 308.08
+    }
+   ],
+   "precision": "BUILT-IN DIRECTION CORRECTED TO UP (per reference): the previous downward extension (which ran beside Plot 63 down to y341.53 then turned east to the highway) is REMOVED, together with its eastward highway leg. Replaced by an upward 33'-0\" connecting road on Plot 63's right side: it runs x380.36..413.36 (33'-0\" wide, west edge x380.36 flush along Plot 63's east edge, east edge x413.36) from y308.08 = Plot 63's bottom edge (no road below Plot 63) UP to y133.2, where it T-junctions the UPPER 33'-0\" road near Plot 43 (karthikeya-road-h1-33): the road's top edge (y133.2, x380.36..413.36) is flush against H1's bottom edge (y133.2, x0..449.75), so the two same-colour bands share the edge and fuse into one clean gap-free T-junction. The shaft crosses only empty land - it never enters Plot 63 (flush west edge) and stays east of Plots 42/44/45/46/43 (all end at x<=377.5). No other road, plot or open space changed."
+  }
+ ]

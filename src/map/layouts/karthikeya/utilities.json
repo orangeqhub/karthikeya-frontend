@@ -1,0 +1,52 @@
+[
+ {
+  "id": "karthikeya-utility-lpm-2966",
+  "label": "LPM 2966",
+  "position": {
+   "x": 90,
+   "y": -172
+  },
+  "needsReview": false,
+  "note": "Legible at 3x zoom crop; digit confidence high."
+ },
+ {
+  "id": "karthikeya-utility-lpm-4917",
+  "label": "LPM 4917",
+  "position": {
+   "x": 60,
+   "y": -90
+  },
+  "needsReview": false,
+  "note": "Legible at 3x zoom crop inside the Kalyanamandapam parcel; digit confidence high."
+ },
+ {
+  "id": "karthikeya-utility-lpm-5204",
+  "label": "LPM 5204",
+  "position": {
+   "x": 300,
+   "y": -80
+  },
+  "needsReview": false,
+  "note": "Legible at 3x zoom crop inside the reserved-land parcel; digit confidence high."
+ },
+ {
+  "id": "karthikeya-utility-lpm-5201",
+  "label": "LPM 5201",
+  "position": {
+   "x": 4,
+   "y": 388
+  },
+  "needsReview": true,
+  "note": "Newly found this pass at 3x zoom -- sits on the boundary line next to the west Open Space; not digitized in the prior pass. Last digit read as 1 with lower confidence than the other four markers."
+ },
+ {
+  "id": "karthikeya-utility-lpm-3427",
+  "label": "LPM 3427",
+  "position": {
+   "x": 150,
+   "y": 490
+  },
+  "needsReview": false,
+  "note": "Sits outside the boundary line, south of the layout; legible at 3x zoom crop."
+ }
+]

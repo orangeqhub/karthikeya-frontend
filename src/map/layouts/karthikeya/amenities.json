@@ -1,0 +1,82 @@
+[
+ {
+  "id": "karthikeya-amenity-kalyanamandapam",
+  "label": "Kalyanamandapam Construction",
+  "type": "community-hall",
+  "polygon": [
+   {
+    "x": 0,
+    "y": -180
+   },
+   {
+    "x": 170,
+    "y": -158
+   },
+   {
+    "x": 170,
+    "y": -60
+   },
+   {
+    "x": 182,
+    "y": -60
+   },
+   {
+    "x": 182,
+    "y": -45
+   },
+   {
+    "x": 170,
+    "y": -45
+   },
+   {
+    "x": 170,
+    "y": 0
+   },
+   {
+    "x": 0,
+    "y": 0
+   }
+  ],
+  "precision": "hand-traced; NW corner and south edge match the layout boundary/40ft-road edge. East partition (shared with the LPM 5204 parcel) re-traced this pass to include the stepped/zigzag notch visible at 3x zoom -- previously drawn as a single straight vertical line."
+ },
+ {
+  "id": "karthikeya-amenity-reserved-lpm5204",
+  "label": "Reserved Land (LPM 5204)",
+  "type": "reserved-land",
+  "polygon": [
+   {
+    "x": 170,
+    "y": -158
+   },
+   {
+    "x": 390,
+    "y": -70
+   },
+   {
+    "x": 389.75,
+    "y": 0
+   },
+   {
+    "x": 182,
+    "y": 0
+   },
+   {
+    "x": 182,
+    "y": -45
+   },
+   {
+    "x": 170,
+    "y": -45
+   },
+   {
+    "x": 170,
+    "y": -60
+   },
+   {
+    "x": 182,
+    "y": -60
+   }
+  ],
+  "precision": "hand-traced; NE edge matches the angled boundary/tree-buffer line. West partition mirrors the Kalyanamandapam parcel's corrected zigzag edge."
+ }
+]
