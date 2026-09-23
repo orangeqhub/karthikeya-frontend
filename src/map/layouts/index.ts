@@ -110,10 +110,18 @@ export interface LayoutSpec {
   utilities: UtilityMarkerEntry[];
   amenities: RegionEntry[];
   boundary: BoundaryEntry;
-  // GIS: the venture's geographic extent (supplied by the site owner).
-  // The local feet-space layout is fitted, aspect-preserving, inside this
-  // bounding box and drawn over OpenStreetMap tiles in the Map view.
+  // GIS: the venture's geographic placement (supplied by the site owner).
+  // - gisCenter      : GPS coordinate that the layout's drawing centre maps to.
+  // - gisRotationDeg : compass bearing (degrees clockwise from true north) that
+  //                    the drawing's "up" (-y) edge points toward. Non-zero so
+  //                    the drawn layout is rotated to match the real-world on-
+  //                    ground orientation (e.g. 293.3 aligns the drawn NH-167AG
+  //                    highway flank with the actual road).
+  // - gisBounds      : north-up bounding box of the rotated venture footprint,
+  //                    used for the map's initial view centre and the GIS chip.
   gisEnabled: boolean;
+  gisCenter: { lat: number; lng: number } | null;
+  gisRotationDeg: number;
   gisBounds: GisBounds | null;
 }
 
@@ -129,11 +137,13 @@ export const LAYOUTS: LayoutSpec[] = [
     amenities: amenitiesJson as unknown as RegionEntry[],
     boundary: layoutBoundaryJson as unknown as BoundaryEntry,
     gisEnabled: true,
+    gisCenter: { lat: 16.34608, lng: 80.295745 },
+    gisRotationDeg: 294.0,
     gisBounds: {
-      minLat: 16.346585,
-      maxLat: 16.348351,
-      minLng: 80.29177,
-      maxLng: 80.29313,
+      minLat: 16.345194,
+      maxLat: 16.346809,
+      minLng: 80.294634,
+      maxLng: 80.296516,
     },
   },
 ];
@@ -178,4 +188,8 @@ export function isGisEnabled(): boolean {
 
 export function getGisBounds(): GisBounds | null {
   return getActiveLayout().gisBounds;
+}
+
+export function getGisCenter(): { lat: number; lng: number } | null {
+  return getActiveLayout().gisCenter;
 }

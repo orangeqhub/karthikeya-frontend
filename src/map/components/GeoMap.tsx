@@ -8,7 +8,7 @@ import {
   getOpenSpaces,
   getAmenities,
   getBoundary,
-  getGisBounds,
+  getGisCenter,
   type LayoutPlotEntry,
   type RegionEntry,
 } from "../layouts";
@@ -108,9 +108,9 @@ function anchorPinIcon(): L.DivIcon {
 }
 
 function anchorPoint(): [number, number] {
-  const gis = getGisBounds();
-  if (!gis) return [16.347468, 80.29245];
-  return [(gis.minLat + gis.maxLat) / 2, (gis.minLng + gis.maxLng) / 2];
+  const c = getGisCenter();
+  if (!c) return [16.34628, 80.295745];
+  return [c.lat, c.lng];
 }
 
 function cornerIcon(label: string): L.DivIcon {
@@ -257,7 +257,7 @@ const GeoMap = forwardRef<GeoMapHandle, Props>(function GeoMap({ dbStatusByNumbe
     viewportFitDoneRef.current = false;
     const geo = getGeoBounds();
     const map = L.map(container, {
-      center: geo ? [geo.center.lat, geo.center.lng] : [16.347468, 80.29245],
+      center: geo ? [geo.center.lat, geo.center.lng] : [16.34628, 80.295745],
       zoom: 17,
       attributionControl: true,
       zoomControl: false,
@@ -565,14 +565,14 @@ const GeoMap = forwardRef<GeoMapHandle, Props>(function GeoMap({ dbStatusByNumbe
         <b>Karthikeya Infra CES</b>
         <span className="gis-chip-title">GIS MAP</span>
         {(() => {
-          const gis = getGisBounds();
-          return gis ? (
+          const geo = getGeoBounds();
+          return geo ? (
             <>
               <span className="gis-chip-coord">
-                {gis.minLat.toFixed(4)}°–{gis.maxLat.toFixed(4)}° N
+                {geo.minLat.toFixed(4)}°–{geo.maxLat.toFixed(4)}° N
               </span>
               <span className="gis-chip-coord">
-                {gis.minLng.toFixed(4)}°–{gis.maxLng.toFixed(4)}° E
+                {geo.minLng.toFixed(4)}°–{geo.maxLng.toFixed(4)}° E
               </span>
             </>
           ) : null;

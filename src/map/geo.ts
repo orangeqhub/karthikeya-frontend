@@ -1,5 +1,6 @@
 import { Point } from "./types/dxf";
 import {
+  getActiveLayout,
   getGisBounds,
   getBoundary,
   getPlotNumberMapping,
@@ -27,6 +28,8 @@ export interface GeoBounds {
 
 const zeroLine: GeoLine = { lat: 0, lng: 0 };
 
+const METRES_PER_LAT_DEG = 111320; // average metres per degree of latitude
+
 export function anchorBox() {
   const pts = getBoundary().polygon;
   let xMin = Infinity;
@@ -45,25 +48,35 @@ export function anchorBox() {
 export function getGeoBounds(): GeoBounds | null {
   const gis = getGisBounds();
   if (!gis) return null;
-  return {
-    minLat: gis.minLat,
-    maxLat: gis.maxLat,
-    minLng: gis.minLng,
-    maxLng: gis.maxLng,
-    center: { lat: (gis.minLat + gis.maxLat) / 2, lng: (gis.minLng + gis.maxLng) / 2 },
-  };
+  return ventureGeoBounds();
 }
 
+/**
+ * Maps a local (feet, x-right / y-down) drawing point to lat/lng using a
+ * uniform similarity transform: translate to the drawing centre, rotate by the
+ * layout's real-world bearing (gisRotationDeg), scale feet -> metres, then
+ * project metres -> degrees anchored at the venture's GPS centre (gisCenter).
+ * The rotation keeps the venture's true footprint and orientation on the map
+ * (the drawn NH-167AG highway flank aligns with the actual road).
+ */
 export function localToLatLng(p: Point): GeoLine {
-  const gis = getGisBounds();
-  if (!gis) return zeroLine;
+  const layout = getActiveLayout();
+  if (!layout.gisEnabled || !layout.gisCenter) return zeroLine;
   const box = anchorBox();
-  const fx = (p.x - box.xMin) / box.width;
-  const fy = (p.y - box.yMin) / box.height;
-  return {
-    lng: gis.minLng + fx * (gis.maxLng - gis.minLng),
-    lat: gis.maxLat - fy * (gis.maxLat - gis.minLat),
-  };
+  const cx = (box.xMin + box.xMax) / 2;
+  const cy = (box.yMin + box.yMax) / 2;
+  const dx = p.x - cx; // feet, +x = drawing right
+  const dy = p.y - cy; // feet, +y = drawing down (screen-like)
+  const theta = -layout.gisRotationDeg * (Math.PI / 180);
+  const cosT = Math.cos(theta);
+  const sinT = Math.sin(theta);
+  const e = dx * 0.3048; // unrotated easting, metres
+  const n = -dy * 0.3048; // unrotated northing, metres
+  const e2 = e * cosT - n * sinT;
+  const n2 = e * sinT + n * cosT;
+  const lat = layout.gisCenter.lat + n2 / METRES_PER_LAT_DEG;
+  const metresPerLngDeg = METRES_PER_LAT_DEG * Math.cos(lat * (Math.PI / 180));
+  return { lat, lng: layout.gisCenter.lng + e2 / metresPerLngDeg };
 }
 
 function polygonToGeo(polygon: Point[]): Array<[number, number]> {
